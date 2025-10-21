@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "fusion360-complete": {
+            "command": "python",
+            "args": ["<PROJECT_PATH>/src/mcp_server.py"],
+            "env": {
+                "PYTHONPATH": "<PROJECT_PATH>/src"
+            }
+        }
+    }
+}
