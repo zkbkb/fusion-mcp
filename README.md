@@ -9,6 +9,9 @@ A Model Context Protocol (MCP) server for interacting with Autodesk Fusion 360
 
 ---
 
+<img width="3060" height="612" alt="fusion-mcp" src="https://github.com/user-attachments/assets/6c2d52cf-2265-4a9c-ab36-eb90e037dca7" />
+
+
 ## Table of Contents
 
 - [System Architecture](#system-architecture)
